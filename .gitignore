@@ -2,3 +2,7 @@
 *.npz
 *.csv
 *.pth
+*.jpg
+*.jpeg
+*.png
+taiwanese-food-101/
