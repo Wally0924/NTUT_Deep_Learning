@@ -1,0 +1,432 @@
+**Regulations on Remote-Controlled Unmanned Aerial Vehicles**
+
+Chapter 1: General Provisions
+
+Article 1
+These Regulations are enacted pursuant to Article 99-17 of the Civil Aviation Act (hereinafter referred to as "the Act").
+
+Article 2
+The terms used in these Regulations are defined as follows:
+
+Remote Control Equipment: Equipment within the UAV system used to operate the UAV.
+
+Communication and Control Signal Link: Data connection between the UAV and remote control equipment for flight management.
+
+Maximum Takeoff Weight: The UAV's design weight including the body, fuel, batteries, payload equipment, and payload.
+
+UAV Operator: The person who actually controls the UAV or supervises flight activities during UAV operations.
+
+Extended Visual Line-of-Sight (EVLOS) Operation: Operation in which the operator maintains indirect visual contact with the UAV via a visual observer within a 300-meter radius. The max EVLOS range is a 900-meter radius and an altitude of 400 feet relative to the ground or water.
+
+Visual Observer: A certified UAV operator who provides necessary flight information to the actual operator during flight activities.
+
+E-Commerce: Commercial activities conducted over the Internet involving the advertisement, marketing, supply, or ordering of goods or services.
+
+Article 3
+UAVs are classified by structure as follows:
+
+Unmanned airplanes.
+
+Unmanned helicopters.
+
+Unmanned multirotor aircraft.
+
+Others as announced by the Civil Aeronautics Administration (CAA).
+
+Article 4
+The UAV owner and operator shall be responsible for flight safety, maintain the UAV in good condition, and conduct safe flight operations.
+
+Article 5
+When more than one person operates a UAV during flight activities, one person must be designated as the decision-maker before the activity begins. Flight activities may not commence without this designation.
+
+Chapter 2: UAV Registration and Radio Frequency Management
+
+Article 6
+For UAVs owned by natural persons with a maximum takeoff weight of 250 grams or more, or UAVs owned by government agencies, schools, or legal entities, the owner must submit the following documents to the CAA for registration. After registration is completed, the UAV may only be operated if the registration number issued by the CAA is marked prominently on the UAV:
+
+Natural persons: Application form (Annex 1) and a copy of the national ID or resident certificate.
+
+Government agencies, schools, legal entities: Application form (Annex 1) and registration documents.
+
+If the owner is a natural person, they must be at least 14 years old. If under 18, a consent letter from their legal representative is also required.
+
+If any of the following changes occur, the owner must submit the application form and proof of registration to the CAA for update:
+
+Name of the owner.
+
+Residential or registration address.
+
+Contact phone number.
+
+Article 7
+If any of the following conditions apply, the owner must apply to the CAA for deregistration within 15 days:
+
+Lost.
+
+Damaged beyond repair.
+
+Decommissioned.
+
+Permanently out of use.
+
+Ownership transferred.
+
+Article 8
+The registration number must be clearly marked on the UAV as follows:
+
+Using a label, engraving, spray paint, or other recognizable methods, ensuring it remains affixed and visible during flight.
+
+Painted or marked on the fixed external structure of the UAV.
+
+The color of the registration number must contrast with the background for visibility to the naked eye.
+
+Article 9
+Registration numbers may not be forged, altered, misappropriated, or used on unregistered UAVs.
+
+Article 10
+The registration number is valid for two years. Owners may apply for an extension within 30 days before expiry by submitting documents specified in Article 6.
+
+Article 11
+UAVs exceeding a certain maximum takeoff weight must be equipped with radio frequency identification (RFID) capabilities compliant with RFID specifications when manufactured, imported, or during registration or renewal. The specific weight threshold and RFID specifications shall be announced by the CAA.
+
+Article 12
+UAVs weighing more than 1 kg and equipped with navigation systems must include geofencing or alert systems to prevent entry into restricted zones, no-fly zones, and airport or airfield surroundings. The geodata must comply with the Act's Article 4 and Article 99-13, Paragraph 1.
+
+UAVs required to be registered under Article 6 and equipped with navigation systems must also include geodata features that comply with zones designated under Article 99-13, Paragraph 2, or other laws.
+
+The geofenced zones and alert coverage shall be published by the CAA via designated information systems.
+
+UAV designers, manufacturers, or modifiers must ensure the geodata systems' accuracy and provide timely updates to owners or operators.
+
+Chapter 3: UAV System Inspection, Manufacturer and Importer Registration and Responsibilities
+
+Article 13
+Designers, manufacturers, or modifiers of UAVs must apply to the CAA for type certification by submitting an application form (Annex 2). Upon passing the type inspection, a Type Inspection Certificate (Annex 3) and a Type Inspection Mark (Annex 4) shall be issued.
+
+For imported UAVs, importers must either apply for a type inspection under the preceding paragraph or submit an application for recognition (Annex 5) to the CAA. Upon approval, a recognition certificate and recognition mark (Annex 4) shall be issued.
+
+The CAA may exempt simple-structured UAVs or those brought into the country by travelers, as announced, from inspection or recognition.
+
+The procedures for type inspection and recognition will be announced by the CAA.
+
+Article 14
+During design, manufacturing, or modification phases, test flights required for performance verification must comply with the test flight management regulations (Annex 6) and submit the following to the CAA for approval:
+
+Test site planning, coordination, and application.
+
+Application, safety, and management of the test flight area.
+
+Declaration of compliance with inspection standards for the UAV and its related equipment.
+
+Ground inspection and testing data.
+
+Test flight plan.
+
+Qualifications of test flight operators.
+
+Notification and handling of flight safety-related events.
+
+Article 15
+For UAVs with a maximum takeoff weight over 25 kg, owners must apply for physical inspection by submitting an application (Annex 2) to the CAA. A Physical Inspection Certificate (Annex 7) will be issued upon passing.
+
+If such UAVs are self-made and self-used, the owner must apply for a Special Physical Inspection, and a Special Physical Inspection Certificate (Annex 8) will be issued upon passing.
+
+The procedures for physical and special physical inspections shall be announced by the CAA.
+
+The validity of a Physical Inspection Certificate is three years. For Special Physical Inspection Certificates, the validity period will be noted by the CAA but shall not exceed three years.
+
+Applications for re-inspection must be submitted within 30 days prior to the certificate's expiration, including a copy of the original certificate.
+
+Article 16
+If there is a change in the contents of a Physical or Special Physical Inspection Certificate, the owner must apply for a replacement within 15 days of the change by submitting the original certificate to the CAA.
+
+If any inspection certificate is lost or damaged, the owner must state the reason and apply for reissuance or replacement to the CAA.
+
+Article 17
+Manufacturers or importers of UAVs must register the following items with the CAA's designated information system before publicly selling UAVs:
+
+Brand and model name.
+
+UAV model and specifications.
+
+Manufacturer’s or importer’s business name.
+
+For domestic manufacturers: factory registration documents. For importers: import product classification codes.
+
+A cybersecurity compliance report issued by a professional institution or legal entity recognized jointly by the Ministry of Digital Affairs and the Ministry of Transportation.
+
+UAVs under 2 kg must be registered with the Bureau of Standards, Metrology, and Inspection (BSMI). UAVs over 2 kg must be registered with CAA for type inspection or recognition.
+
+RF equipment certification per National Communications Commission regulations.
+
+Other items as announced by the CAA.
+
+Before public sale, manufacturers and importers must label the following on the product or packaging:
+
+Manufacturer/importer business name.
+
+Cybersecurity compliance report number.
+
+UAVs under 2 kg: BSMI mark. UAVs over 2 kg: CAA type inspection or recognition mark.
+
+RF certification per NCC.
+
+Maximum takeoff weight.
+
+Registration procedures.
+
+Physical inspection instructions.
+
+Operational limitations.
+
+Management and violation penalty information.
+
+For e-commerce sales, the above information must be clearly marked in Chinese on the platform. This applies whether sold directly or through agents, dealers, or third parties.
+
+Self-made and used UAVs must register the individual's or entity’s name along with items (1) and (2) above in the CAA's designated system.
+
+UAVs without navigation systems may be exempt from the import classification code, cybersecurity testing, and type inspection or recognition requirements. Their packaging may also be exempt from labeling such information.
+
+Article 18
+If UAVs over 25 kg experience malfunctions, failures, or defects that pose safety risks, the designer, manufacturer, modifier, or importer must take corrective actions.
+
+They must report the issue to the CAA in writing (Annex 18) within 30 days of discovery. Extensions may be approved by the CAA with valid justification.
+
+Chapter 4: UAV Operator Testing and Certification
+
+Article 19
+Operators of the following UAVs must obtain an operator certificate issued by the CAA before operating:
+
+UAVs owned by government agencies, schools, or legal entities.
+
+UAVs owned by natural persons with a maximum takeoff weight of 2 kg or more but less than 15 kg and equipped with navigation systems.
+
+UAVs owned by natural persons with a maximum takeoff weight of 15 kg or more.
+
+Article 20
+Operator certificates are categorized as follows, with eligibility and requirements:
+
+Learner Certificate: Applicants must be at least 14 years old and will be issued the certificate by the CAA upon application.
+
+General Operator Certificate: Applicants must be at least 18 years old and pass a written exam administered by the CAA.
+
+Professional Operator Certificate: Applicants must be at least 18 years old, meet specific experience requirements, pass a medical exam, and pass both written and practical exams administered by the CAA.
+
+Operating privileges for each certificate type:
+
+Learner Certificate: Holders may operate UAVs (under 25 kg) under the supervision of a holder of a General or Professional Operator Certificate, in accordance with the structure classification stated on the supervising certificate.
+
+General Operator Certificate: Allows operation of UAVs (2 kg to less than 15 kg) with navigation systems owned by natural persons.
+
+Professional Operator Certificate: Allows operation of UAVs owned by government agencies, schools, legal entities, or UAVs (15 kg or more) owned by natural persons.
+
+Eligibility, test subjects, registration rules, medical certification, privileges, and instructional qualifications for each certificate are described in Annex 9. Application forms for the written/practical exams and operator certificate are provided in Annexes 10 and 11.
+
+The structure, weight class, operational restrictions, and instructional qualifications must be stated on the operator certificate.
+
+Article 21
+Applicants for the practical exam must use UAVs that meet the specifications described in Annex 12.
+
+Article 22
+Applicants for a Professional Operator Certificate must complete the practical exam within one year after passing the written exam. Failure to do so will require retaking the written exam.
+
+Applicants who fail the practical exam may reapply for a retest for the failed portion no sooner than 30 days after receiving their results.
+
+Applicants must apply for their certificate within 30 days of passing both exams. Extensions of up to 30 days may be granted upon application, limited to one extension.
+
+Article 23
+Operator certificates are valid for three years. Renewal is subject to the following rules:
+
+Holders of General or Professional Operator Certificates may apply for renewal within three months before expiry by submitting a recent photo (taken within two years) and a copy of their current valid certificate. Professional certificate holders must also undergo a new medical exam and pass a renewal test.
+
+To add structure, weight class, or advanced practical test items to a Professional Certificate, the holder must pass the corresponding practical test and apply for an updated certificate.
+
+If applying for both renewal and additional qualifications, the holder must complete the renewal first.
+
+Certificates issued before the amendment effective on December 1, 2024, remain valid under the previous rules.
+
+Article 24
+If any details on an operator certificate change, the holder must apply for reissuance within 15 days by submitting the original certificate.
+
+If a certificate is lost or damaged, the holder must state the reason and apply for reissuance or replacement to the CAA.
+
+Chapter 5: Operational Restrictions and Activity Permits
+
+Section 1: General Operational Rules
+
+Article 25
+Before conducting UAV flight operations, operators must perform maintenance and inspections according to the manufacturer’s maintenance guidelines to ensure safe flight conditions.
+
+Article 26
+Before operating a UAV, the operator must assess the following:
+
+Environmental conditions including weather, airspace, flight restrictions, and other aerial or ground hazards.
+
+General operational and emergency procedures and requirements.
+
+Reliability of the communication and control signal link between the UAV and the controller.
+
+Sufficient fuel or battery capacity, taking into account weather forecasts, expected delays, and potential landing delays.
+
+Article 27
+Operators must comply with the following during UAV operations:
+
+Blood alcohol concentration must not exceed 0.02% or 0.1 mg per liter in breath.
+
+Operators must not be impaired by psychoactive substances.
+
+Operations must not endanger any life or property.
+
+For flights approved under Article 30 Paragraph 1, operations must comply with the CAA-approved manual.
+
+Article 28
+UAV operations must adhere to the following restrictions:
+
+Maintain a distance of at least 30 meters from highways, expressways, railways, elevated railways, metro systems, buildings, and obstacles.
+
+UAVs must not be operated from moving aircraft, vehicles, or vessels.
+
+UAVs under 25 kg with navigation systems must not exceed 87 knots (160 km/h).
+
+EVLOS operations must be limited to a 900-meter radius and 400-foot altitude from the operator, and the visual observer must maintain direct visual contact with the UAV and provide necessary flight information.
+
+Government agencies, schools, or legal entities may apply to the CAA under Article 32 Paragraph 1 to be exempt from these restrictions.
+
+Article 29
+During operations, the operator must remain vigilant of the UAV’s flight and surroundings, avoid other aircraft, ultralight vehicles, UAVs, and obstacles, and prevent collisions.
+
+Section 2: Permits for Government Agencies, Schools, or Legal Entities
+
+Article 30
+Government agencies, schools, or legal entities must submit the following to the CAA for approval prior to UAV flight activities:
+
+Registration documents.
+
+UAV system inventory and operator roster.
+
+Operation manual (see Annex 13). If operations fall under Article 99-14 Paragraph 1, Items 1 to 8 of the Act, the manual must specify the equipment and procedures for exempting operational restrictions.
+
+Approval is valid for two years. Renewals may be requested within 30 days before expiration.
+
+If there are changes to the documents under items 1 or 3, approval from the CAA is required within 15 days before resuming operations.
+
+Operator and UAV system information must be updated in the CAA's system, and operations must follow the approved manual’s safety and qualification requirements.
+
+Article 31
+For operations in restricted or prohibited zones or around airports, applications must be submitted to the CAA with a flight plan (Annex 14) 15 days before the activity. If the zone involves military airspace, applications must be submitted 30 days prior.
+
+For operations in zones designated by local governments as prohibited or restricted, flight plans must be submitted 15 days prior for approval from the relevant authorities. For cross-county activities, submit to the government of the take-off location and obtain all required approvals.
+
+Once approved, flight information must be registered in the CAA system before and after each activity.
+
+Approval validity is three months. For agricultural legal entities under Items 2, 3, or 6 of Article 99-14 Paragraph 1, the limit is six months. For government agencies performing official duties, the limit is one year.
+
+Activities in zones under Article 99-13 Paragraph 2 of the Act may be subject to separate local government regulations.
+
+From December 1, 2027, UAVs used in the above activities must:
+
+Have a cybersecurity compliance report issued by an accredited institution under standards approved by the Ministry of Digital Affairs and Ministry of Transportation (unless a Special Physical Inspection Certificate for agricultural use is held under Article 15).
+
+UAVs under 2 kg must have BSMI certification; UAVs 2 kg and over must have a CAA-issued type inspection or recognition certificate (unless covered under Article 15).
+
+Public sector procurements that specify cybersecurity standards in the bidding documents are exempt from Item 1.
+
+Article 32
+For UAV operations under Items 1 to 8 of Article 99-14 Paragraph 1 of the Act, government agencies, schools, or legal entities must apply for permission 15 days in advance with a flight plan (Annex 14). For operations over crowds or during outdoor events or parades, consent from local and relevant central authorities is also required.
+
+Mass flight performances involving over 200 UAVs must submit a cybersecurity compliance report for swarm control systems from an accredited institution.
+
+Flight data must be registered in the CAA system before and after each event.
+
+Permits are valid for three months, or six months for agricultural use under Items 2, 3, or 6 of Article 99-14 Paragraph 1, or one year for official government duties.
+
+Starting December 1, 2027, UAVs used in such activities must meet the same cybersecurity and certification requirements as outlined in Article 31.
+
+Public sector procurements that specify cybersecurity standards in the bidding documents are exempt from the cybersecurity compliance requirement.
+
+Article 32-1
+Relevant central authorities may delegate approval responsibilities under Articles 31 and 32 to other agencies or groups. The delegation must be announced and published in the government gazette.
+
+Article 33
+During disaster response within designated warning or restricted areas, UAV activities must be directed by the disaster response center and approved by the CAA.
+
+For disaster prevention, recovery, or emergency situations outside of disasters, UAV activities must be directed by the designated field commander and approved by the relevant authority. For operations in Article 99-13 or Article 99-14 areas, additional CAA or local government approval is required.
+
+Flight information must be registered in the CAA system before and after each event.
+
+Article 34
+Government agencies performing legal duties such as disaster response, investigation, correctional services, etc., may apply for exemption from Article 31 Paragraphs 1–3 and Article 32 Paragraphs 1–2 if activities occur in restricted zones or involve restricted operations under Article 99-14.
+
+The CAA may attach operational conditions in the approval document. Approval is valid for two years and may be extended within 30 days of expiration.
+
+Article 35
+Government agencies, schools, or legal entities must retain records for two years, including registration number, flight date, area, time, altitude, coordinates, duration, flight type, operator names, registered flight data, and maintenance, repair, or modification logs.
+
+Article 35-1
+Entities applying under Article 31 Paragraph 1 or Article 32 Paragraph 1 must comply with the approved conditions. If a NOTAM (Notice to Airmen) is required, they must apply for it and assign liaisons to coordinate with the flight control unit.
+
+Chapter 6: Reporting and Handling of Flight Safety Incidents
+
+Article 36
+If any of the following flight safety-related incidents occur during UAV operations, the owner or operator must report the incident to the CAA using the Flight Safety Incident Report Form (Annex 15) within 24 hours:
+
+A UAV flight accident as defined in the Transportation Occurrence Investigation Act.
+
+UAVs over 2 kg with navigation systems that sustain substantial damage or are lost.
+
+UAVs operating in the areas designated under Article 99-13 Paragraphs 1 and 2 that sustain substantial damage or are lost.
+
+UAVs conducting activities under Article 99-14 Paragraph 1 Items 1 to 8 that sustain substantial damage or are lost.
+
+Near-misses or collisions with other aircraft or obstacles.
+
+Article 37
+If any of the incidents listed in Article 36 occur, the CAA may suspend the operation or flight activities of the UAV for the following reasons:
+
+To facilitate investigation.
+
+To stabilize the parties involved.
+
+To enhance operator training.
+
+Other situations affecting flight safety.
+
+**Chapter 7: Supplementary Provisions**
+
+**Article 38**
+Foreign nationals holding valid foreign-issued UAV registration, inspection, and operator certificates must submit the following to the CAA for approval before operating within the Taipei Flight Information Region:
+1. Application form (Annex 16).
+2. Copy of passport.
+3. Proof of foreign-issued UAV registration, inspection, and operator certification. Documents in non-English languages must include a Chinese translation.
+
+The recognition period for such foreign documents shall not exceed six months from the date of issuance.
+
+Nationals without household registration in Taiwan or foreign nationals with a stay or residence permit valid for six months or more, and residents of mainland China, Hong Kong, or Macau with permission to stay or reside for over one year, may apply for operator certificates under Chapter 4.
+
+Foreign government agencies, schools, or legal entities operating UAVs within the Taipei FIR are exempt from the permit requirements of Chapter 5, Section 2.
+
+**Article 39**
+Applications and reporting under these Regulations may be processed electronically via the CAA’s designated information system.
+
+**Article 40**
+Application fees shall be collected according to Annex 17.
+
+**Article 40-1**
+No person shall delete or alter RFID data, geodata software systems, or electromagnetic records of UAVs without valid reason.
+
+Applications for registration, inspection, recognition, logging, flight activity approval, operational restriction exemptions, or labeling must not contain false or misleading information.
+
+**Article 41**
+UAVs that passed inspection or were recognized by the CAA before the effective date of these Regulations may apply for new inspection or recognition certificates afterward.
+
+Operators who were certified by the CAA before the effective date of these Regulations may apply for corresponding certificates under these Regulations.
+
+**Article 41-1**
+From May 15, 2021, during the activation period of the Central Epidemic Command Center, applicants unable to meet deadlines under Article 15 Paragraph 4 or Article 23 Paragraph 2 due to suspension of inspection or certification services by the CAA may apply with justification for a temporary extension of up to three months.
+
+Those who fail to complete the practical exam under Article 22 Paragraph 1 due to suspension of testing may also apply for a three-month extension.
+
+Further extensions may be granted if the epidemic continues to impede the process.
+
+**Article 42**
+The effective date of these Regulations shall be determined by the Ministry of Transportation and Communications.
