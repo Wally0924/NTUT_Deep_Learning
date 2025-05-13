@@ -1,0 +1,803 @@
+--- 答案不同的題目詳情 ---
+標準答案檔案：/home/rvl/mingwei/NTUT_Deep_Learning/wen_correct.csv
+您的答案檔案：/home/rvl/mingwei/NTUT_Deep_Learning/qwen_qwen3-32b_rag_answers.csv
+原始題庫檔案：/home/rvl/mingwei/NTUT_Deep_Learning/tw_drone_pro_license_test_shuffled_en.jsonl
+--------------------------
+總比對題數：588
+答案完全一致的題數：509
+答案不同的題數：79
+準確率：86.56%
+--------------------------
+
+題目 Id: 5
+  題目內容:
+An unmanned drone is carrying out a mission, and the operator notices that the power system warning light occasionally lights up for a period of time and then goes off, repeatedly reoccurring. What should the operator understand about this phenomenon?
+A) As long as the drone can still fly normally, there is no need to pay attention to this phenomenon and continue with the mission.
+B) This phenomenon indicates that there may be an emergency situation with the power system, and the operator should immediately return the drone to land.
+C) The drone team should collaboratively discuss a response measure regarding this phenomenon, respecting everyone's opinions, rather than allowing the operator or any other individual to make the decision.
+D) It should depend on the duration and frequency of the warning light being on; if the duration is long and the frequency is high, then pay attention to this phenomenon; otherwise, ignore it.
+  標準答案: D
+  你的答案: B
+
+題目 Id: 16
+  題目內容:
+If a government agency, school, or legal entity wishes to implement the operational restrictions stipulated by drone regulations, they may submit relevant documents and apply for approval from which of the following?
+A) Municipal or county (city) government.
+B) Civil Aeronautics Administration.
+C) Police agency.
+D) Ministry of Health and Welfare.
+  標準答案: C
+  你的答案: B
+
+題目 Id: 18
+  題目內容:
+Those who violate the regulations regarding "radio frequency identification, inspection, approval, maintenance and inspection, permission and content of flight activities, registration and responsibilities of manufacturers and importers, reporting of flight safety-related incidents, etc." will be prohibited from their activities, and in severe cases, remote-controlled drones may be confiscated. What is the amount of the fine in New Taiwan Dollars?  
+A) More than 10,000 and less than 1.5 million.  
+B) More than 50,000 and less than 4.98 million.  
+C) More than 80,000 and less than 7.98 million.  
+D) More than 100,000 and less than 9.98 million.
+  標準答案: D
+  你的答案: B
+
+題目 Id: 23
+  題目內容:
+Regarding remote-controlled drone flight activities, which of the following statements is correct?  
+A) You may not fly in restricted areas without permission.  
+B) You may fly freely in restricted flight areas.  
+C) There are no relevant regulations for flying within a certain distance around an airport.  
+D) All of the above.
+  標準答案: B
+  你的答案: A
+
+題目 Id: 31
+  題目內容:
+In the routine weather report for aviation, the identification code for the observation station: Which two letters at the beginning of the airport identification code represent airports in our country?  
+A) QQ.  
+B) RC.  
+C) AA.  
+D) BB.
+  標準答案: B
+  你的答案: A
+
+題目 Id: 32
+  題目內容:
+Unmanned multirotor aircraft change the lift of the rotors at both ends laterally, making it unbalanced, in order to achieve which of the following postures?  
+A) Vertical ascent/descent posture.  
+B) Yawing posture.  
+C) Pitching posture.  
+D) Rolling posture.
+  標準答案: C
+  你的答案: D
+
+題目 Id: 49
+  題目內容:
+When the drone is flying in the southern airspace of the airport, air traffic control notifies that an aircraft is preparing to land on runway 06 and instructs the drone to avoid the landing flight path. What action should the operator take?
+
+A) Avoid the western and northern areas of the current flight airspace.
+B) Avoid the eastern and northern areas of the current flight airspace.
+C) Avoid the western and southern areas of the current flight airspace.
+D) Avoid the eastern and southern areas of the current flight airspace.
+  標準答案: A
+  你的答案: D
+
+題目 Id: 62
+  題目內容:
+If the owner or operator of a remote-controlled drone violates the "Regulations that must be followed for remote-controlled drone flight activities," in addition to prohibiting their activities, in serious cases, the drone may be confiscated. What is the fine in New Taiwan Dollars?
+A) More than 100,000 and less than 480,000.
+B) More than 80,000 and less than 380,000.
+C) More than 50,000 and less than 280,000.
+D) More than 30,000 and less than 150,000.
+  標準答案: D
+  你的答案: A
+
+題目 Id: 68
+  題目內容:
+When flying a remote-controlled drone, which of the following situations describes the forces acting on the body in order to produce various attitudes?  
+A) Lift is usually greater than weight.  
+B) Lift is usually less than weight.  
+C) Sometimes lift is greater, sometimes weight is greater.  
+D) None of the above.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 75
+  題目內容:
+What is the cost that a remote-controlled drone must incur to generate which of the following external forces?  
+A) Magnetic force.  
+B) Thrust.  
+C) Lift.  
+D) Gravity.
+  標準答案: C
+  你的答案: B
+
+題目 Id: 76
+  題目內容:
+The ground wind at the airport runway is approximately from the south. The runway is oriented north-south. Which direction of the runway should general aircraft choose for operations?  
+A) Runway 18.  
+B) Runway 27.  
+C) Runway 09.  
+D) Runway 36.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 85
+  題目內容:
+What data can remote drone operators obtain through the Aviation Weather Service Network (AOAWS) established by the Flight Service Center?  
+A) Real-time observation data from major airports in and out of the country.  
+B) Weather forecast data for domestic airports for the next 6 hours.  
+C) Satellite cloud imagery of the Pacific region.  
+D) Upper-level wind and temperature charts.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 104
+  題目內容:
+A drone is maintaining a constant speed (40 knots/hour) and a constant attitude while flying east. At this time, the GPS speed (ground speed) shows 44 knots/hour, and the GPS heading is 116 degrees. What is the approximate wind speed and wind direction?
+A) East wind 20 knots.
+B) North wind 20 knots.
+C) South wind 20 knots.
+D) West wind 20 knots.
+  標準答案: B
+  你的答案: C
+
+題目 Id: 114
+  題目內容:
+In which of the following situations can the operator skip the pre-flight check for the drone?  
+A) If a pre-flight check has been conducted for the previous flight, the operator does not need to perform a pre-flight check for the next flight immediately following it.  
+B) If a pre-flight check has been conducted for the first flight of the day, then all subsequent flights on that day do not require a pre-flight check.  
+C) A pre-flight check must be performed before every flight; there are no circumstances under which it can be waived.  
+D) Depending on the flight mission, if the mission is simple and the flight time is short, the operator may determine that a pre-flight check is unnecessary and can skip it.
+  標準答案: D
+  你的答案: C
+
+題目 Id: 121
+  題目內容:
+The unmanned helicopter's "bank turn" refers to maintaining a tilted state to the left or right while maintaining which of the following flight conditions?  
+A) Constant altitude and constant heading.  
+B) Altitude changes, but heading remains constant.  
+C) Constant altitude, but heading changes.  
+D) Altitude changes and heading changes.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 129
+  題目內容:
+When warm air passes over a cold surface, the warm air is affected by the surface and cools down. Which of the following states can the water vapor reach?  
+A) Unsaturated state.  
+B) Semi-saturated state.  
+C) Saturated state.  
+D) Supersaturated state.
+  標準答案: C
+  你的答案: D
+
+題目 Id: 141
+  題目內容:
+During the mature stage of a thunderstorm, the rising and descending airflow interact with each other, resulting in which of the following phenomena?  
+A) Horizontal wind shear.  
+B) Vertical wind shear.  
+C) Low-level wind shear.  
+D) Microburst.
+  標準答案: B
+  你的答案: D
+
+題目 Id: 147
+  題目內容:
+If the owner or operator of a remote-controlled drone violates the regulation of "engaging in remote-controlled drone activities without insurance or with insufficient insurance coverage," in addition to prohibiting their activities and possibly confiscating the drone in serious cases, what is the additional fine in New Taiwan Dollars?  
+A) Between 60,000 and 300,000.  
+B) Between 30,000 and 200,000.  
+C) Between 10,000 and 80,000.  
+D) Between 80,000 and 500,000.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 148
+  題目內容:
+How many vertical drive shafts does an unmanned multirotor aircraft have?  
+A) More than 2.  
+B) More than 3.  
+C) More than 4.  
+D) More than 6.
+  標準答案: B
+  你的答案: A
+
+題目 Id: 158
+  題目內容:
+The drone is flying south towards its mission target area. According to meteorological data, there is a stable and strong north wind along the flight path, and there are no significant obstacles in the area or nearby. Which of the following situations is the least concerning for the operator?
+A) The duration of the strong wind.
+B) Whether the wind speed exceeds the drone's flight performance limitations.
+C) Whether crosswinds are too high and affecting flight operations.
+D) Whether flying in strong wind consumes more power, thereby reducing endurance.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 159
+  題目內容:
+A drone is approaching the airport on a heading of 90 degrees. Which direction is the drone currently in with respect to the airport?
+A) North
+B) West
+C) East
+D) South
+  標準答案: B
+  你的答案: C
+
+題目 Id: 166
+  題目內容:
+An unmanned multirotor aircraft simultaneously decreases or increases the rotational speed and lift of the two pairs of diagonally opposite rotors to achieve which of the following postures?  
+A) Vertical ascent/descent posture.  
+B) Pitch posture.  
+C) Yaw posture.  
+D) Roll posture.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 170
+  題目內容:
+A drone is executing a mission, and the following situations occur almost simultaneously: GPS signal failure, worsening weather, and interference with image transmission. What should the operator recognize regarding these situations?
+A) The priority should be to achieve the mission and temporarily ignore these situations.
+B) Since it is impossible to conduct a pre-analysis or simulation of these situations, the operator should decisively make an automatic decision based on experience.
+C) The operator should work with the drone team to discuss countermeasures for these situations and calmly find the best solution.
+D) The operator should carefully review the procedures specified in the drone's flight manual/operator's manual and then execute the prescribed measures step by step.
+  標準答案: B
+  你的答案: C
+
+題目 Id: 193
+  題目內容:
+When a remote-controlled drone experiences an abnormal or emergency situation, you should first stabilize operations, understand the drone's position and altitude, and then take which of the following actions?
+A) Notify the relevant authorities.
+B) Follow the checklist to activate or deactivate relevant equipment.
+C) Search for the best emergency landing site.
+D) All of the above.
+  標準答案: C
+  你的答案: D
+
+題目 Id: 200
+  題目內容:
+Unmanned multirotors change the lift of the rotors at both ends to create an imbalance in order to achieve which of the following postures?  
+A) Vertical ascent and descent posture.  
+B) Pitch posture.  
+C) Yaw posture.  
+D) Roll posture.
+  標準答案: C
+  你的答案: B
+
+題目 Id: 214
+  題目內容:
+When controlling a remote-controlled drone, the operator should think of "up," "down," "left," and "right" in relation to which of the following items?  
+A) The center of the aircraft.  
+B) The ground level.  
+C) The operator's own virtual coordinates.  
+D) All of the above.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 216
+  題目內容:
+What is the impact of unmanned multirotor drones on flight?  
+A) No impact.  
+B) Becomes complex.  
+C) Becomes simple.  
+D) Sometimes becomes complex, sometimes becomes simple.
+  標準答案: C
+  你的答案: B
+
+題目 Id: 218
+  題目內容:
+The controllability of a remote-controlled drone is good, indicating which of the following phenomena?  
+A) The control actions are simple.  
+B) Controlling requires less effort.  
+C) The control response is quick.  
+D) All of the above.
+  標準答案: D
+  你的答案: C
+
+題目 Id: 222
+  題目內容:
+Which agency is the Taipei Aviation Meteorological Center affiliated with?  
+A) Civil Aeronautics Administration Flight Service Center, Ministry of Transportation and Communications.  
+B) Tourism Bureau Flight Service Center, Ministry of Transportation and Communications.  
+C) Central Weather Bureau Flight Service Center, Ministry of Transportation and Communications.  
+D) Aviation Administration Flight Service Center, Ministry of Transportation and Communications.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 229
+  題目內容:
+After taking off into the wind, if the drone's engine fails, what should the operator recognize about the situation?
+A) Immediately establish an appropriate descent attitude for the drone and move straight ahead or slightly away from the takeoff path for landing.  
+B) Immediately perform a sharp turn to bring the drone back for landing at the original takeoff location.  
+C) Immediately inform the drone team to brainstorm and propose countermeasures.  
+D) Immediately refer to the procedures specified in the drone's flight manual/operator's manual, and then take emergency measures.
+  標準答案: A
+  你的答案: D
+
+題目 Id: 248
+  題目內容:
+In a standard atmospheric pressure environment, a drone is preparing to take off at the airport (located on a horizontal plane) with the altimeter indicating a height (pressure altitude) of 200 feet. In order for the drone's pressure altitude to match the airport runway elevation, which action should the operator take?
+
+A) Adjust the pressure altitude to 29.72 inches of mercury.
+B) Adjust the pressure altitude to 27.92 inches of mercury.
+C) Adjust the pressure altitude to 29.52 inches of mercury.
+D) Adjust the pressure altitude to 25.92 inches of mercury.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 251
+  題目內容:
+When the air temperature reaches or approaches the dew point, the water vapor in the air will gradually condense, leading to which of the following conditions that can affect visibility?  
+A) Frost.  
+B) Dew.  
+C) Fog.  
+D) All of the above.
+  標準答案: C
+  你的答案: D
+
+題目 Id: 256
+  題目內容:
+In which of the following places is a low-density and high-altitude environment less likely to occur?  
+A) Places with extremely high atmospheric pressure.  
+B) Low-altitude places.  
+C) Dry places.  
+D) High-temperature places.
+  標準答案: D
+  你的答案: A
+
+題目 Id: 258
+  題目內容:
+In coordinated turns, what forces are used to determine the load factor of a remote-controlled drone?  
+A) Lift and gravity.  
+B) Thrust and gravity.  
+C) Centrifugal force and gravity.  
+D) Drag and gravity.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 263
+  題目內容:
+When the number of molecules in the air is low and sparse, what does that indicate about its density?
+A) Higher.
+B) Lower.
+C) Could be either high or low.
+D) Cannot be determined.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 266
+  題目內容:
+When a remote-controlled drone encounters strong headwinds during takeoff, which of the following risks may occur?  
+A) Operator's line of sight is unclear.  
+B) Control distance becomes shorter.  
+C) Wing surface contacts the ground.  
+D) Takeoff distance becomes shorter.
+  標準答案: D
+  你的答案: B
+
+題目 Id: 267
+  題目內容:
+What factor is directly related to atmospheric stability?
+A) Direction of air flow.
+B) Size of suspended particles in the air.
+C) Degree of water vapor saturation.
+D) Degree of air dryness.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 274
+  題目內容:
+If the owner or operator of a remote-controlled drone violates the regulations related to "registration of remote-controlled drones or marking registration numbers," in addition to prohibiting their activities, those with serious circumstances may have their remote-controlled drones confiscated and may also face a fine of how much New Taiwan Dollars?
+A) More than 100,000 but less than 480,000.
+B) More than 80,000 but less than 380,000.
+C) More than 50,000 but less than 280,000.
+D) More than 30,000 but less than 150,000.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 288
+  題目內容:
+Persons or operators of remote-controlled drones who violate the relevant regulations of "the area, time, and other management matters announced by the municipal or county (city) government" shall have their activities prohibited and, in serious cases, may have their remote-controlled drones confiscated. Additionally, what is the fine imposed?  
+A) More than NT$30,000 but less than NT$150,000.  
+B) More than NT$50,000 but less than NT$280,000.  
+C) More than NT$80,000 but less than NT$380,000.  
+D) More than NT$150,000 but less than NT$300,000.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 295
+  題目內容:
+When a person walks against the wind, they will feel the effect of resistance. This is which of the following types of resistance?  
+A) Frictional resistance.  
+B) Induced resistance.  
+C) Form resistance.  
+D) Interference resistance.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 297
+  題目內容:
+If the operator of a remote-controlled drone neglects or fails to timely address acute fatigue, which of the following conditions may further occur?  
+A) Overfatigue.  
+B) Chronic fatigue.  
+C) Moderate fatigue.  
+D) Mild fatigue.
+  標準答案: B
+  你的答案: A
+
+題目 Id: 301
+  題目內容:
+What is the relationship between lift and drag and the size of the wing area?  
+A) Both are directly proportional to the size of the wing area.  
+B) Both are inversely proportional to the size of the wing area.  
+C) Both are directly proportional to the square of the size of the wing area.  
+D) Both are inversely proportional to the square of the size of the wing area.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 305
+  題目內容:
+Random choose a item.
+A) The law has its tolerance limits, but considering flight safety, the operator should be prohibited from conducting flight activities until a breath test has been conducted.  
+B) Priority should be given to the execution of the mission, allowing the operator to carry out flight activities as long as the drone team pays extra attention.  
+C) Moderate drinking is neither harmful nor detrimental to vision and reflexes, so it is not a concern, and the operator should continue flight activities as originally planned.  
+D) It depends on the operator's condition on site; if the operator appears to be fine, they should be allowed to conduct flight activities, but if they look drunk, they should be prohibited from doing so.
+  標準答案: A
+  你的答案: D
+
+題目 Id: 307
+  題目內容:
+What factor affects the discrepancy between the actual atmospheric pressure value and the standard value?  
+A) Differences in pressure gauge brands.  
+B) Uneven ground temperature.  
+C) Differences in pressure gauge reading methods.  
+D) Differences in pressure gauge calibration values.
+  標準答案: B
+  你的答案: D
+
+題目 Id: 315
+  題目內容:
+Which entity should government agencies, schools, or legal persons apply to for approval from the relevant central competent authority before engaging in flight activities outside the designated remote-controlled drone activity areas, times, and other management matters announced by the municipal or county (city) government?  
+A) Municipal or county (city) government.  
+B) Ministry of Health and Welfare.  
+C) Council of Agriculture.  
+D) Ministry of Transportation.
+  標準答案: A
+  你的答案: D
+
+題目 Id: 321
+  題目內容:
+When planning flights or operating a drone, the operator has multiple pieces of weight and balance information, arranged in chronological order, including a. 2016/8/15 (when the drone was manufactured), b. 2016/10/18, c. 2016/12/27, d. 2017/2/8, e. 2017/6/19 (when the drone last flew), f. 2017/9/20. Which of the following should the operator use?  
+A) Weight and balance information from 2017/9/20.  
+B) Weight and balance information from 2016/8/15 (when the drone was manufactured).  
+C) Weight and balance information from 2017/6/19 (when the drone last flew).  
+D) Weight and balance information from any of the above.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 339
+  題目內容:
+Which of the following conditions can help dissipate advection fog?  
+A) Decreased wind speed.  
+B) Change in wind direction.  
+C) Increased temperature.  
+D) Increased humidity.
+  標準答案: B
+  你的答案: C
+
+題目 Id: 354
+  題目內容:
+Which of the following equipment is usually not installed on a drone?  
+A) Flight instruments.  
+B) Communication equipment, navigation equipment.  
+C) Safety equipment.  
+D) All of the above.
+  標準答案: A
+  你的答案: D
+
+題目 Id: 364
+  題目內容:
+When there are more and denser molecules in the air, what does this indicate about its density?  
+A) Higher.  
+B) Lower.  
+C) Could be high or low.  
+D) Cannot be determined.
+  標準答案: B
+  你的答案: A
+
+題目 Id: 365
+  題目內容:
+The operator is not permitted to engage in remote-controlled drone flight activities beyond visual line of sight without using any tools other than corrective lenses for extended visual range flying. Which of the following flight range restrictions must also be observed?  
+A) Must operate within the effective range of the signal link.  
+B) Must operate within visual range.  
+C) Must operate within the effective range of the autopilot.  
+D) Must operate within a safe fuel range.
+  標準答案: B
+  你的答案: A
+
+題目 Id: 367
+  題目內容:
+If an unmanned aircraft maintains a constant airspeed and travels in a straight line, according to Newton's laws of motion, which of the following characteristics would enable the aircraft to continue stable straight flight?
+A) Magnetism.
+B) Air pressure.
+C) Inertia.
+D) Air humidity.
+  標準答案: B
+  你的答案: C
+
+題目 Id: 371
+  題目內容:
+When operating a remote-controlled drone, what is the legal blood alcohol concentration limit that must not be exceeded?  
+A) 0.01%.  
+B) 0.02%.  
+C) 0.04%.  
+D) 0.06%.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 375
+  題目內容:
+Government agencies, schools, or legal persons who wish to engage in remote-controlled drone flight activities within a certain distance from no-fly zones, restricted flight areas, and the vicinity of airports or airfields must submit their application how many days before the activity date?
+A) 15 days in advance.
+B) 10 days in advance.
+C) 5 days in advance.
+D) 3 days in advance.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 407
+  題目內容:
+When designing the propeller for an aircraft, which of the following characteristics of the engine and the aircraft is used as a basis to determine the angle of the blades for high efficiency?  
+A) Sales volume and price.  
+B) Fuel consumption and torque.  
+C) Compression ratio and stroke.  
+D) RPM and airspeed.
+  標準答案: B
+  你的答案: D
+
+題目 Id: 411
+  題目內容:
+Which of the following situations is a response of the human body to physiological and psychological needs?  
+A) Dehydration.  
+B) Stress.  
+C) Heatstroke.  
+D) Intoxication.
+  標準答案: B
+  你的答案: D
+
+題目 Id: 418
+  題目內容:
+In the routine aviation weather report, what is the reporting method and unit for the observed prevailing visibility values?  
+A) 4 statute miles (meters).  
+B) 6 statute miles (meters).  
+C) 8 statute miles (meters).  
+D) 10 statute miles (meters).
+  標準答案: A
+  你的答案: C
+
+題目 Id: 426
+  題目內容:
+If the owner or operator of a remote-controlled drone violates the relevant regulations regarding "engaging in flight activities within a certain distance from restricted airspace, controlled airspace, and the surrounding area of airports or airfields," in addition to revoking their operating certificate and confiscating the drone, what fine in New Taiwan Dollars will be imposed?  
+A) More than 30,000 but less than 180,000.  
+B) More than 50,000 but less than 280,000.  
+C) More than 100,000 but less than 480,000.  
+D) More than 300,000 but less than 1,500,000.
+  標準答案: D
+  你的答案: C
+
+題目 Id: 428
+  題目內容:
+What is the fine, in New Taiwan Dollars, imposed on the owner or operator of a remote-controlled drone who violates the regulation of "operating a remote-controlled drone without a permit"? In addition to being prohibited from activities and having their drone confiscated in serious cases, the fine is:
+A) Between 10,000 and 80,000.
+B) Between 30,000 and 180,000.
+C) Between 60,000 and 300,000.
+D) Between 80,000 and 380,000.
+  標準答案: D
+  你的答案: B
+
+題目 Id: 432
+  題目內容:
+What kind of changes will occur with lift and drag if the wing area is large?  
+A) Lift increases, drag decreases.  
+B) Lift decreases, drag increases.  
+C) Both lift and drag decrease.  
+D) Both lift and drag increase.
+  標準答案: A
+  你的答案: D
+
+題目 Id: 433
+  題目內容:
+In which of the following places is a high-density and high-altitude environment least likely to occur?  
+A) Low altitude places.  
+B) High-temperature places.  
+C) Very humid places.  
+D) Low atmospheric pressure places.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 438
+  題目內容:
+What are the characteristics of the mature stage of a thunderstorm?  
+A) Sinking air.  
+B) Beginning of precipitation.  
+C) Thunder.  
+D) All of the above.
+  標準答案: D
+  你的答案: C
+
+題目 Id: 440
+  題目內容:
+When the center of gravity of a drone is positioned towards the front, which of the following situations will occur?  
+A) Decrease induced drag.  
+B) Increase induced drag.  
+C) Induced drag remains constant.  
+D) None of the above.
+  標準答案: B
+  你的答案: D
+
+題目 Id: 446
+  題目內容:
+Which type of remote-controlled drone generates lift through rotor blades while also producing thrust?  
+A) Remote-controlled helicopter.  
+B) Remote-controlled airplane.  
+C) Remote-controlled multirotor drone.  
+D) All of the above.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 449
+  題目內容:
+Which type of link does the 5.8GHz frequency mainly execute for remote sensing functions such as image or data transmission?  
+A) Downlink.  
+B) Uplink control link.  
+C) Encrypted link.  
+D) All of the above.
+  標準答案: C
+  你的答案: A
+
+題目 Id: 470
+  題目內容:
+If the center of gravity of a drone helicopter is too far forward, it will inhibit which of the following performances?  
+A) Level flight.  
+B) Backward flight and low-speed hovering.  
+C) From the ground to normal takeoff.  
+D) All of the above.
+  標準答案: B
+  你的答案: D
+
+題目 Id: 479
+  題目內容:
+Which of the following methods can improve hyperventilation?  
+A) Read more, listen to more music.  
+B) Appropriate diet.  
+C) Restore the carbon dioxide concentration in the blood to a normal state.  
+D) Expand social circles.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 482
+  題目內容:
+The actual amount of moisture contained in the air, expressed as a percentage of the maximum amount of moisture that can be held at the same temperature, is referred to as what?  
+A) Absolute humidity.  
+B) Relative humidity.  
+C) Humidity at the same temperature.  
+D) Actual humidity.
+  標準答案: D
+  你的答案: B
+
+題目 Id: 483
+  題目內容:
+Which of the following phenomena does not occur when water vapor is saturated?
+A) Clouds.
+B) Fog.
+C) Rain.
+D) Thunderstorm.
+  標準答案: D
+  你的答案: C
+
+題目 Id: 485
+  題目內容:
+Which of the following is an important factor that simultaneously affects the flight performance and flight safety of remote-controlled drones?  
+A) Aircraft size.  
+B) Battery capacity.  
+C) Weight and center of gravity position.  
+D) All of the above.
+  標準答案: C
+  你的答案: D
+
+題目 Id: 491
+  題目內容:
+What type of engine is used for the power system of large unmanned aerial vehicles (UAVs) that operate at high altitudes or have long endurance?
+A) Turbine engine.
+B) Brushless electric motor.
+C) Turbofan or turboprop engine.
+D) Reciprocating (piston) engine.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 504
+  題目內容:
+If the air density is high and the relative airspeed is fast, what kind of changes will occur to lift and drag?  
+A) Lift increases and drag decreases.  
+B) Lift decreases and drag increases.  
+C) Both lift and drag increase.  
+D) Both lift and drag decrease.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 513
+  題目內容:
+The circulation of microburst downdrafts lasts approximately 5 to 15 minutes; what is the speed of the resulting downdrafts?
+A) 600 feet per minute.  
+B) 6,000 feet per minute.  
+C) 20,000 feet per minute.  
+D) 50,000 feet per minute.
+  標準答案: B
+  你的答案: A
+
+題目 Id: 520
+  題目內容:
+What is the purpose of the penalties imposed on remote-controlled drone operators and owners who violate regulations?  
+A) Maintain social order.  
+B) Promote public interest.  
+C) Safeguard public safety.  
+D) All of the above.
+  標準答案: D
+  你的答案: C
+
+題目 Id: 541
+  題目內容:
+What type of engine is used in the power system of a low-speed, low-altitude medium-sized drone?  
+A) Reciprocating (piston) engine.  
+B) Brushless electric motor.  
+C) Turbine propeller engine.  
+D) Turbo engine.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 550
+  題目內容:
+For a remote-controlled drone with a maximum takeoff weight of over two kilograms and equipped with navigation devices, if it loses control and crashes in an open, uninhabited area during a mission due to worsening weather and reduced visibility, without causing any injuries or property damage, what understanding should the operator have regarding the drone crash incident?  
+A) Even though there were no injuries or property damage, the drone wreckage should be cleaned up before returning, and no units should be notified to avoid causing personal trouble.  
+B) The operator should assess the cause of the accident at the crash site, examine the condition of the wreckage, avoid disturbing the scene, and report to the local police for handling.  
+C) If the drone crashes due to uncontrollable factors like bad weather, and there are no injuries or property damage, no cleanup or notification of any units is necessary.  
+D) After the incident, the drone owner or operator should report the incident to the Civil Aviation Authority.
+  標準答案: C
+  你的答案: D
+
+題目 Id: 557
+  題目內容:
+A remote-controlled drone operator wants to perform pesticide spraying operations for a local agricultural association. Which of the following statements is correct?
+A) The operator must pass both academic and practical examinations.
+B) The operator does not need to pass a practical examination.
+C) Prior approval is not required before performing pesticide spraying operations.
+D) All of the above.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 561
+  題目內容:
+Xiao Chen is the head of a newly established drone business company. Currently, in addition to actively recruiting personnel, he is also preparing to purchase 20 business drones of different configurations and weights. Which of the following statements regarding the registration requirements for the drones purchased by Xiao Chen's company is correct?
+A) All drones must be registered.
+B) Only drones with a maximum takeoff weight exceeding 250 grams need to be registered.
+C) Only half of the purchased drones need to be registered.
+D) The regulatory authority decides how many drones need to be registered.
+  標準答案: A
+  你的答案: B
+
+題目 Id: 571
+  題目內容:
+Which of the following statements about the characteristics of valley fog is NOT true?  
+A) It dissipates quickly after sunrise.  
+B) The relative humidity is relatively high.  
+C) It is not easy to dissipate.  
+D) It may occur in coastal areas.
+  標準答案: A
+  你的答案: C
+
+題目 Id: 580
+  題目內容:
+The registration number should be marked in a way that is identifiable, such as with a label, engraving, painting, or other means, and must meet which of the following requirements during each flight?  
+A) Ensure it does not come off.  
+B) Keep it clean.  
+C) Be clearly identifiable.  
+D) All of the above.
+  標準答案: D
+  你的答案: C
+
